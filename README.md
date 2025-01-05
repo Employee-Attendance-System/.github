@@ -30,7 +30,7 @@ An advanced Employee Attendance Management System using GPS technology for retai
    - **SPG**: Uses the mobile app to manage their schedules and attendance.
 
 2. **GPS-based Attendance**  
-   Employees can only mark attendance when they are physically present at their designated branch, verified via GPS.
+   Employees can mark attendance only when they are physically present at their designated branch, verified via GPS, and can register on only one device.
 
 3. **Work Schedule Management**
 
