@@ -73,8 +73,7 @@ An advanced Employee Attendance Management System using GPS technology for retai
 
 ### Web Application
 Access the web dashboard:  
-[https://dinasti-absensi.web.app/](https://dinasti-absensi.web.app/){:target="_blank"}
-
+<a href="https://dinasti-absensi.web.app/" target="_blank">https://dinasti-absensi.web.app/</a>
 
 ## Super Admin Login
 - **Username**: `superadmin`  
