@@ -66,28 +66,25 @@ An advanced Employee Attendance Management System using GPS technology for retai
 - **Framework**: Express.js
 - **Language**: TypeScript
 - **Database**: MySQL with Sequelize ORM
-- **Authentication**: JSON Web Tokens (JWT)
+- **Authentication**: JSON Web Tokens (JWT
 
 
-
-# Employee Attendance System - Quick Start Guide
-
-## Super Admin Login
-- **Username**: `superadmin`  
-- **Password**: `qwerty`
-
-## User Registration
-To log in as a user, registration is required. During registration, the application automatically captures the device ID to bind the account to a specific device. This ensures security and prevents manipulation since the system uses device IDs instead of IMEI numbers.
-
-## Access Links
+# Quick Start Guide
 
 ### Web Application
 Access the web dashboard:  
 [https://dinasti-absensi.web.app/](https://dinasti-absensi.web.app/)
 
+## Super Admin Login
+- **Username**: `superadmin`  
+- **Password**: `qwerty`
+
 ### Mobile Application (APK)
 Download the mobile application (APK):  
 [Download APK](https://drive.google.com/file/d/1cxdMCVUOVOZ9gdLJN861ZRkE7x5vI8y6/view?usp=drive_link)
+
+## User Registration
+To log in as a user, registration is required. During registration, the application automatically captures the device ID to bind the account to a specific device. This ensures security and prevents manipulation since the system uses device IDs instead of IMEI numbers.
 
 ## Features
 1. **Super Admin Login**  
