@@ -73,7 +73,8 @@ An advanced Employee Attendance Management System using GPS technology for retai
 
 ### Web Application
 Access the web dashboard:  
-[https://dinasti-absensi.web.app/](https://dinasti-absensi.web.app/)
+[https://dinasti-absensi.web.app/](https://dinasti-absensi.web.app/){:target="_blank"}
+
 
 ## Super Admin Login
 - **Username**: `superadmin`  
@@ -81,7 +82,7 @@ Access the web dashboard:
 
 ### Mobile Application (APK)
 Download the mobile application (APK):  
-[Download APK](https://drive.google.com/file/d/1cxdMCVUOVOZ9gdLJN861ZRkE7x5vI8y6/view?usp=drive_link)
+[Download APK](https://drive.google.com/file/d/1cxdMCVUOVOZ9gdLJN861ZRkE7x5vI8y6/view?usp=drive_link){:target="_blank"}
 
 ## User Registration
 To log in as a user, registration is required. During registration, the application automatically captures the device ID to bind the account to a specific device. This ensures security and prevents manipulation since the system uses device IDs instead of IMEI numbers.
